@@ -8,7 +8,7 @@ def tokenize(text):
 ```
 
 - What it does:
-  - Splits raw text into lowercase words (["rag","combina","busca",...]).
+  - Splits raw text into lowercase words (["rag","combines","search",...]).
   - No IDs are generated; it just returns a list of strings.
 
 - Real LLM equivalent:
