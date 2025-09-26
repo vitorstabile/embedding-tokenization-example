@@ -1,5 +1,9 @@
 # mini-RAG pipeline
 
+[Project](https://github.com/vitorstabile/embedding-tokenization-example/blob/main/mini_rag.py)
+
+## Explanation
+
 **Tokenization (your tokenize() function)**
 
 ```py
